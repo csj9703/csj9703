@@ -1,7 +1,7 @@
 # Hi there 👋
 I am a 4th year Computer Science student currently studying at the University of Calgary
 
-- 🔭 I’m currently working on developing a dog breed classification proogram, a portfolio website as well as a game.
+- 🔭 I’m currently working on developing a [dog breed classification proogram](https://github.com/csj9703/dbc-Dog-Breed-Classifier), a portfolio website as well as a game.
 - 🌱 I’m currently learning how to become a **full stack web developer**, and learning about **game development** with **Unreal Engine** as well as **Unity Engine**.
 - 📫 How to reach me: 
   - via e-mail: [shuji.chen1997@gmail.com](mailto:shuji.chen1997@gmail.com)
