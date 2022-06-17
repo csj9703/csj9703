@@ -1,5 +1,5 @@
 # [Hello there](https://c.tenor.com/QFSdaXEwtBAAAAAC/hello-there-general-kenobi.gif) 👋
-I am a 4th year Computer Science student currently studying at the University of Calgary
+I am a 5th year Computer Science student currently studying at the University of Calgary
 
 - 🔭 I’m currently working on developing a [dog breed classification proogram](https://github.com/csj9703/dbc-Dog-Breed-Classifier), a portfolio website as well as a game.
 - 🌱 I’m currently learning how to become a **full stack web developer**, and learning about **game development** with **Unreal Engine** as well as **Unity Engine**.
