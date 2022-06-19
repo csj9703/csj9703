@@ -27,7 +27,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: csj9703/csj9703@main
+        uses: ./.github/workflows/update-badges.yml
         with:
           GH_TOKEN: ${{secrets.GHTOKEN}}
+          REPOSITORY: csj9703/csj9703
           CREDLY_USER: shuji-chen
