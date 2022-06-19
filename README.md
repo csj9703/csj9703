@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 -->
 # Badges:
 <!--START_SECTION:badges-->
-<img src="https://images.credly.com/size/340x340/images/ebea4a14-2685-4e01-ac66-9bc88e0b26c0/00-Unity_Essentials-Pathway_Badge.png" width="100">
+|Unity Essential|
+|---------------|
+|<img src="https://images.credly.com/size/340x340/images/ebea4a14-2685-4e01-ac66-9bc88e0b26c0/00-Unity_Essentials-Pathway_Badge.png" width="100">|
 <!--END_SECTION:badges-->
