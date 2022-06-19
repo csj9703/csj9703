@@ -29,4 +29,5 @@ jobs:
       - name: Badges - Readme
         uses: csj9703/csj9703@main
         with:
+          GH_TOKEN: ${{secrets.GHTOKEN}}
           CREDLY_USER: shuji-chen
