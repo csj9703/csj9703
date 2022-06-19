@@ -27,6 +27,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: csj9703/csj9703-readme@main
+        uses: csj9703/csj9703@main
         with:
           CREDLY_USER: shuji-chen
