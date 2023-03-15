@@ -8,6 +8,9 @@ I am a 5th year Computer Science student currently studying at the University of
   - [Personal projects](https://github.com/stars/csj9703/lists/star2-personal-side-projects) 
 - 📫 How to reach me: 
   - via e-mail: [shuji.chen1997@gmail.com](mailto:shuji.chen1997@gmail.com)
+
+## My Stats
+[![csj9703's GitHub stats](https://github-readme-stats.vercel.app/api?username=csj9703&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **csj9703/csj9703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
