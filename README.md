@@ -5,9 +5,9 @@ Final Year Computer Science Student at the University of Calgary Pursuing a Care
 
 - Currently developing a university database management system using: 
 
-  <img width="50px" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img width="60px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img width="50px" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img width="70px" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img width="80px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img width="70px" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 - 🌟 Check out my lists of projects:
   - [School projects](https://github.com/stars/csj9703/lists/school-projects)
   - [Personal projects](https://github.com/stars/csj9703/lists/star2-personal-side-projects) 
