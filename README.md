@@ -3,8 +3,11 @@ Final Year Computer Science Student at the University of Calgary Pursuing a Care
 ---
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-- 🔭 I’m currently working on developing a [dog breed classification proogram](https://github.com/csj9703/dbc-Dog-Breed-Classifier), a portfolio website as well as a game.
-- 🌱 I’m currently learning how to become a **full stack web developer**, and learning about **game development** with **Unreal Engine** as well as **Unity Engine**.
+- Currently developing a university database management system using: 
+
+  <img width="50px" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img width="60px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img width="50px" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 - 🌟 Check out my lists of projects:
   - [School projects](https://github.com/stars/csj9703/lists/school-projects)
   - [Personal projects](https://github.com/stars/csj9703/lists/star2-personal-side-projects) 
