@@ -17,7 +17,7 @@ Final Year Computer Science Student at the University of Calgary Pursuing a Care
 
 ## My Stats
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=csj9703&show_icons=true&theme=bear" />
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csj9703&layout=compact&theme=bear"/>
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csj9703&layout=compact&theme=bear"/>
 <!--
 **csj9703/csj9703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
