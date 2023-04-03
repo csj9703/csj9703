@@ -17,7 +17,7 @@
  </div>
 
 <div align="center"><h2>My Stats</h2></div>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=csj9703&show_icons=true&theme=bear" />
+
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csj9703&layout=compact&theme=bear"/>
 
 <!--
