@@ -17,7 +17,7 @@
  </div>
 
 <div align="center"><h2>My Stats</h2></div>
-<img align="left" width="45%" src="https://github-readme-stats-csj9703.vercel.app?username=csj9703&count_private=true&show_icons=true&theme=bear" />
+<img align="left" width="45%" src="https://github-readme-stats-csj9703.vercel.app/api?username=csj9703&count_private=true&show_icons=true&theme=bear" />
 <img align="left" width="45%" src="https://github-readme-stats-csj9703.vercel.app/api/top-langs/?username=csj9703&layout=compact&theme=bear"/>
 
 <!--
