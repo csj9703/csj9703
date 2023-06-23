@@ -1,6 +1,6 @@
 <img align="center" src="terminal.gif"/>
 
-<div align="center"><h1>Final Year Computer Science Student at the University of Calgary Pursuing a Career in Software Development</h1></div>
+<div align="center"><h1>Computer Science Graduate From the University of Calgary Pursuing a Career in Software Development</h1></div>
 
 ---
 <div align="center">
