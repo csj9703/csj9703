@@ -1,8 +1,5 @@
-<img align="center" src="terminal.gif"/>
-
 <div align="center"><h1>Back-end Developer</h1></div>
-
-
+<img align="center" src="terminal.gif"/>
 <!-- --- -->
   
  </div>
