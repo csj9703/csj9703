@@ -2,8 +2,6 @@
 
 <div align="center"><h1>Back-end Developer</h1></div>
 
----
-
 
 <!-- --- -->
   
